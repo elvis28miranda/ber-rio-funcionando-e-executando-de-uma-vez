@@ -1,0 +1,21 @@
+id_endereco,cep,rua,numero,complemento,bairro,cidade,estado
+1,01000-000,Rua A,123,Apto 101,Centro,São Paulo,SP
+2,02000-000,Rua B,234,Apto 202,Zona Norte,São Paulo,SP
+3,03000-000,Rua C,345,Casa,Zona Sul,São Paulo,SP
+4,04000-000,Rua D,456,Casa,Zona Leste,São Paulo,SP
+5,05000-000,Rua E,567,Sala 1,Zona Oeste,São Paulo,SP
+6,06000-000,Rua F,678,Sala 2,Centro,Rio de Janeiro,RJ,
+7,07000-000,Rua G,789,Apto 303,Zona Norte,Rio de Janeiro,RJ
+8,08000-000,Rua H,890,Apto 404,Zona Sul,Rio de Janeiro,RJ
+9,09000-000,Rua I,901,Casa,Zona Leste,Rio de Janeiro,RJ
+10,10000-000,Rua J,012,Casa,Zona Oeste,Rio de Janeiro,RJ
+11,11000-000,Rua K,123,Apto 505,Centro,Belo Horizonte,MG
+12,12000-000,Rua L,234,Sala 3,Zona Sul,Belo Horizonte,MG
+13,13000-000,Rua M,345,Casa,Zona Norte,Belo Horizonte,MG
+14,14000-000,Rua N,456,Sala 4,Zona Leste,Belo Horizonte,MG
+15,15000-000,Rua O,567,Apto 606,Zona Oeste,Belo Horizonte,MG
+16,16000-000,Rua P,678,Apto 707,Centro,Salvador,BA
+17,17000-000,Rua Q,789,Casa,Zona Sul,Salvador,BA
+18,18000-000,Rua R,890,Casa,Zona Norte,Salvador,BA
+19,19000-000,Rua S,901,Sala 5,Zona Leste,Salvador,BA
+20,20000-000,Rua T,012,Sala 6,Zona Oeste,Salvador,BA
